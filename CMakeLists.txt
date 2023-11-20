@@ -26,6 +26,7 @@ add_executable(C2
 #        lab_05/5_4.c
 #        lab_06/6_1.c
 #        lab_06/6_2.c
-        lab_06/6_3.c
+#        lab_06/6_3.c
+        lab_06/6_4.c
         #        template.c
 )
